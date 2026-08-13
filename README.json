@@ -1,0 +1,348 @@
+{
+  "items": [
+    {
+      "description": "If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.",
+      "items": [],
+      "title": "🔆 This project is still on-going, pull requests are welcomed!!"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "NVIDIA Research",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neural rendering models for human generation: vid2vid NeurIPS'18",
+              "description": ", fs-vid2vid NeurIPS'19, EG3D CVPR'22;",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-10T19:59:28Z",
+                "owner": "NVlabs",
+                "repo": "eg3d",
+                "stars": 3337
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Aliaksandr Siarohin @ Snap Research",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Neural rendering models for human generation (focus on flow-based generative models): Unsupervised-Volumetric-Animation CVPR'23",
+              "description": ", 3DAvatarGAN CVPR'23, 3D-SGAN ECCV'22, Articulated-Animation CVPR'21, Monkey-Net CVPR'19, FOMM NeurIPS'19;",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-09-22T16:57:12Z",
+                "owner": "snap-research",
+                "repo": "unsupervised-volumetric-animation",
+                "stars": 69
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Researchers and labs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image and video generation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3D Avatar (face+body)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "2D talking-face synthesis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3D talking-face synthesis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talking-body synthesis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pose2video"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talking-face"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Metrics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Talking-face"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GFPGAN: Practical Algorithm for Real-world Face Restoration https://github.com/TencentARC/GFPGAN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-26T18:44:02Z",
+            "owner": "TencentARC",
+            "repo": "GFPGAN",
+            "stars": 37655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-03T01:59:11Z",
+            "owner": "CMU-Perceptual-Computing-Lab",
+            "repo": "openpose",
+            "stars": 34362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-18T12:03:30Z",
+            "owner": "sczhou",
+            "repo": "CodeFormer",
+            "stars": 18106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metahuman-stream: Real time interactive streaming digital human https://github.com/lipku/metahuman-stream",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T09:15:36Z",
+            "owner": "lipku",
+            "repo": "LiveTalking",
+            "stars": 8751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenFace: a facial behavior analysis toolkit https://github.com/TadasBaltrusaitis/OpenFace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2024-06-01T00:44:07Z",
+            "owner": "TadasBaltrusaitis",
+            "repo": "OpenFace",
+            "stars": 7732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A general toolbox for AIGC, including common metrics and models https://github.com/open-mmlab/mmagic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-06T07:19:40Z",
+            "owner": "open-mmlab",
+            "repo": "mmagic",
+            "stars": 7453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "face3d: Python tools for processing 3D face https://github.com/yfeng95/face3d",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-04T08:41:17Z",
+            "owner": "yfeng95",
+            "repo": "face3d",
+            "stars": 2779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyVolcap: a PyTorch library for accelerating neural volumetric video research https://github.com/zju3dv/EasyVolcap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-21T08:13:57Z",
+            "owner": "zju3dv",
+            "repo": "EasyVolcap",
+            "stars": 1584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autocrop: Automatically detects and crops faces from batches of pictures https://github.com/leblancfg/autocrop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T13:42:27Z",
+            "owner": "leblancfg",
+            "repo": "autocrop",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "3DMM model fitting using Pytorch https://github.com/ascust/3DMM-Fitting-Pytorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-12T14:01:26Z",
+            "owner": "ascust",
+            "repo": "3DMM-Fitting-Pytorch",
+            "stars": 654
+          }
+        }
+      ],
+      "title": "Toolbox"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GPT-SoVITS https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T08:21:07Z",
+            "owner": "RVC-Boss",
+            "repo": "GPT-SoVITS",
+            "stars": 60823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CosyVoice, Alibaba Tongyi SpeechTeam https://github.com/FunAudioLLM/CosyVoice",
+          "description": "👍👍",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T18:15:40Z",
+            "owner": "QwenAudio",
+            "repo": "CosyVoice",
+            "stars": 22741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FireRedTTS, FireReadTeam https://github.com/FireRedTeam/FireRedTTS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-28T06:26:53Z",
+            "owner": "FireRedTeam",
+            "repo": "FireRedTTS",
+            "stars": 912
+          }
+        }
+      ],
+      "title": "Text to Speech (TTS)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Speech To Speech, HuggingFace https://github.com/huggingface/speech-to-speech",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:01:47Z",
+            "owner": "huggingface",
+            "repo": "speech-to-speech",
+            "stars": 12480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini-Omni, Tsinghua University https://github.com/gpt-omni/mini-omni",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-05T10:19:58Z",
+            "owner": "gpt-omni",
+            "repo": "mini-omni",
+            "stars": 3570
+          }
+        }
+      ],
+      "title": "Speech to Speech (GPT4-o)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T19:59:55.428Z",
+    "original_repository": "Jason-cs18/awesome-avatar",
+    "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
+    "enhanced_repository": "enhansome/enhansome-avatar",
+    "enhanced_repository_description": null,
+    "title": "awesome-avatar with stars"
+  }
+}
