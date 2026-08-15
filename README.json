@@ -136,7 +136,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34364
+            "stars": 34366
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18107
+            "stars": 18106
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-08-07T09:15:36Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 8754
+            "stars": 8796
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2024-06-01T00:44:07Z",
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7734
+            "stars": 7733
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-07-15T13:42:27Z",
             "owner": "leblancfg",
             "repo": "autocrop",
-            "stars": 671
+            "stars": 672
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T08:21:07Z",
             "owner": "RVC-Boss",
             "repo": "GPT-SoVITS",
-            "stars": 60862
+            "stars": 60903
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-05-25T18:15:40Z",
             "owner": "QwenAudio",
             "repo": "CosyVoice",
-            "stars": 22756
+            "stars": 22767
           }
         },
         {
@@ -316,7 +316,7 @@
             "last_commit": "2026-08-14T14:40:05Z",
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 12515
+            "stars": 12538
           }
         },
         {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:55:43.011Z",
+    "last_updated": "2026-08-15T19:32:58.430Z",
     "original_repository": "Jason-cs18/awesome-avatar",
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
     "enhanced_repository": "enhansome/enhansome-avatar",
