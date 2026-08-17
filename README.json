@@ -122,7 +122,7 @@
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37656
+            "stars": 37654
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34366
+            "stars": 34368
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-08-07T09:15:36Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 8804
+            "stars": 8817
           }
         },
         {
@@ -268,7 +268,7 @@
             "last_commit": "2026-07-22T08:21:07Z",
             "owner": "RVC-Boss",
             "repo": "GPT-SoVITS",
-            "stars": 60947
+            "stars": 60985
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-05-25T18:15:40Z",
             "owner": "QwenAudio",
             "repo": "CosyVoice",
-            "stars": 22781
+            "stars": 22799
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2025-09-28T06:26:53Z",
             "owner": "FireRedTeam",
             "repo": "FireRedTTS",
-            "stars": 913
+            "stars": 914
           }
         }
       ],
@@ -313,10 +313,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T14:40:05Z",
+            "last_commit": "2026-08-17T14:20:37Z",
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 12557
+            "stars": 12580
           }
         },
         {
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:32:33.522Z",
+    "last_updated": "2026-08-17T19:41:09.465Z",
     "original_repository": "Jason-cs18/awesome-avatar",
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
     "enhanced_repository": "enhansome/enhansome-avatar",
