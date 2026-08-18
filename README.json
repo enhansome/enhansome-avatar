@@ -24,7 +24,7 @@
                 "last_commit": "2023-06-10T19:59:28Z",
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3336
+                "stars": 3337
               }
             }
           ]
@@ -122,7 +122,7 @@
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37654
+            "stars": 37657
           }
         },
         {
@@ -136,7 +136,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34368
+            "stars": 34371
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18107
+            "stars": 18110
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2026-08-07T09:15:36Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 8817
+            "stars": 8832
           }
         },
         {
@@ -178,7 +178,7 @@
             "last_commit": "2024-06-01T00:44:07Z",
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7734
+            "stars": 7733
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-08-06T07:19:40Z",
             "owner": "open-mmlab",
             "repo": "mmagic",
-            "stars": 7455
+            "stars": 7454
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2025-01-21T08:13:57Z",
             "owner": "zju3dv",
             "repo": "EasyVolcap",
-            "stars": 1584
+            "stars": 1585
           }
         },
         {
@@ -265,10 +265,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-22T08:21:07Z",
+            "last_commit": "2026-08-18T09:16:25Z",
             "owner": "RVC-Boss",
             "repo": "GPT-SoVITS",
-            "stars": 60985
+            "stars": 61019
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-05-25T18:15:40Z",
             "owner": "QwenAudio",
             "repo": "CosyVoice",
-            "stars": 22799
+            "stars": 22811
           }
         },
         {
@@ -313,10 +313,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T14:20:37Z",
+            "last_commit": "2026-08-18T09:05:02Z",
             "owner": "huggingface",
             "repo": "speech-to-speech",
-            "stars": 12580
+            "stars": 12611
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2024-11-05T10:19:58Z",
             "owner": "gpt-omni",
             "repo": "mini-omni",
-            "stars": 3570
+            "stars": 3571
           }
         }
       ],
@@ -338,7 +338,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:41:09.465Z",
+    "last_updated": "2026-08-18T19:40:01.285Z",
     "original_repository": "Jason-cs18/awesome-avatar",
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
     "enhanced_repository": "enhansome/enhansome-avatar",
