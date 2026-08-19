@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and pull a request.",
-      "items": [],
-      "title": "🔆 This project is still on-going, pull requests are welcomed!!"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -20,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 438565846,
                 "language": "Python",
                 "last_commit": "2023-06-10T19:59:28Z",
                 "owner": "NVlabs",
@@ -41,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 593373065,
                 "language": "Python",
                 "last_commit": "2023-09-22T16:57:12Z",
                 "owner": "snap-research",
@@ -54,62 +51,7 @@
       "title": "Researchers and labs"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Image and video generation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D Avatar (face+body)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2D talking-face synthesis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3D talking-face synthesis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Talking-body synthesis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Pose2video"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Talking-face"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Metrics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Talking-face"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -118,11 +60,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349321229,
             "language": "Python",
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37657
+            "stars": 37659
           }
         },
         {
@@ -132,11 +75,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89247811,
             "language": "C++",
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34371
+            "stars": 34372
           }
         },
         {
@@ -146,11 +90,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 505667511,
             "language": "Python",
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18110
+            "stars": 18112
           }
         },
         {
@@ -160,11 +105,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 733283939,
             "language": "Python",
-            "last_commit": "2026-08-07T09:15:36Z",
+            "last_commit": "2026-08-19T06:50:20Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 8832
+            "stars": 8842
           }
         },
         {
@@ -174,11 +120,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53220938,
             "language": "MATLAB",
             "last_commit": "2024-06-01T00:44:07Z",
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7733
+            "stars": 7735
           }
         },
         {
@@ -188,11 +135,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203999962,
             "language": "Jupyter Notebook",
             "last_commit": "2024-08-06T07:19:40Z",
             "owner": "open-mmlab",
             "repo": "mmagic",
-            "stars": 7454
+            "stars": 7455
           }
         },
         {
@@ -202,6 +150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140789390,
             "language": "Python",
             "last_commit": "2019-10-04T08:41:17Z",
             "owner": "yfeng95",
@@ -216,11 +165,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728582975,
             "language": "Python",
             "last_commit": "2025-01-21T08:13:57Z",
             "owner": "zju3dv",
             "repo": "EasyVolcap",
-            "stars": 1585
+            "stars": 1584
           }
         },
         {
@@ -230,6 +180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45621518,
             "language": "Python",
             "last_commit": "2026-07-15T13:42:27Z",
             "owner": "leblancfg",
@@ -244,102 +195,111 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315531850,
             "language": "Python",
             "last_commit": "2024-01-12T14:01:26Z",
             "owner": "ascust",
             "repo": "3DMM-Fitting-Pytorch",
             "stars": 654
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GPT-SoVITS https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743230067,
+                "language": "Python",
+                "last_commit": "2026-08-18T09:16:25Z",
+                "owner": "RVC-Boss",
+                "repo": "GPT-SoVITS",
+                "stars": 61042
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CosyVoice, Alibaba Tongyi SpeechTeam https://github.com/FunAudioLLM/CosyVoice",
+              "description": "👍👍",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823430322,
+                "language": "Python",
+                "last_commit": "2026-05-25T18:15:40Z",
+                "owner": "QwenAudio",
+                "repo": "CosyVoice",
+                "stars": 22820
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FireRedTTS, FireReadTeam https://github.com/FireRedTeam/FireRedTTS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 842824734,
+                "language": "Python",
+                "last_commit": "2025-09-28T06:26:53Z",
+                "owner": "FireRedTeam",
+                "repo": "FireRedTTS",
+                "stars": 914
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text to Speech (TTS)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Speech To Speech, HuggingFace https://github.com/huggingface/speech-to-speech",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 839428333,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:32:54Z",
+                "owner": "huggingface",
+                "repo": "speech-to-speech",
+                "stars": 12640
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mini-Omni, Tsinghua University https://github.com/gpt-omni/mini-omni",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848215538,
+                "language": "Python",
+                "last_commit": "2024-11-05T10:19:58Z",
+                "owner": "gpt-omni",
+                "repo": "mini-omni",
+                "stars": 3572
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speech to Speech (GPT4-o)"
         }
       ],
       "title": "Toolbox"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GPT-SoVITS https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T09:16:25Z",
-            "owner": "RVC-Boss",
-            "repo": "GPT-SoVITS",
-            "stars": 61019
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CosyVoice, Alibaba Tongyi SpeechTeam https://github.com/FunAudioLLM/CosyVoice",
-          "description": "👍👍",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-25T18:15:40Z",
-            "owner": "QwenAudio",
-            "repo": "CosyVoice",
-            "stars": 22811
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FireRedTTS, FireReadTeam https://github.com/FireRedTeam/FireRedTTS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-28T06:26:53Z",
-            "owner": "FireRedTeam",
-            "repo": "FireRedTTS",
-            "stars": 914
-          }
-        }
-      ],
-      "title": "Text to Speech (TTS)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Speech To Speech, HuggingFace https://github.com/huggingface/speech-to-speech",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T09:05:02Z",
-            "owner": "huggingface",
-            "repo": "speech-to-speech",
-            "stars": 12611
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mini-Omni, Tsinghua University https://github.com/gpt-omni/mini-omni",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-11-05T10:19:58Z",
-            "owner": "gpt-omni",
-            "repo": "mini-omni",
-            "stars": 3571
-          }
-        }
-      ],
-      "title": "Speech to Speech (GPT4-o)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:40:01.285Z",
+    "last_updated": "2026-08-19T12:19:09.458Z",
     "original_repository": "Jason-cs18/awesome-avatar",
+    "original_repository_id": 697562506,
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
     "enhanced_repository": "enhansome/enhansome-avatar",
     "enhanced_repository_description": null,
