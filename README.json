@@ -65,7 +65,7 @@
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37656
+            "stars": 37657
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18109
+            "stars": 18106
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-20T08:28:42Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9135
+            "stars": 9156
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2025-01-21T08:13:57Z",
             "owner": "zju3dv",
             "repo": "EasyVolcap",
-            "stars": 1586
+            "stars": 1587
           }
         },
         {
@@ -217,7 +217,7 @@
                 "last_commit": "2026-08-18T09:16:25Z",
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 61117
+                "stars": 61139
               }
             },
             {
@@ -232,7 +232,7 @@
                 "last_commit": "2026-05-25T18:15:40Z",
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 22850
+                "stars": 22858
               }
             },
             {
@@ -266,10 +266,10 @@
                 "archived": false,
                 "id": 839428333,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:34:53Z",
+                "last_commit": "2026-08-21T23:14:41Z",
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
-                "stars": 12742
+                "stars": 12778
               }
             },
             {
@@ -284,7 +284,7 @@
                 "last_commit": "2024-11-05T10:19:58Z",
                 "owner": "gpt-omni",
                 "repo": "mini-omni",
-                "stars": 3572
+                "stars": 3571
               }
             }
           ],
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:36:16.680Z",
+    "last_updated": "2026-08-22T19:33:48.457Z",
     "original_repository": "Jason-cs18/awesome-avatar",
     "original_repository_id": 697562506,
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
