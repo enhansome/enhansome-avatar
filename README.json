@@ -80,7 +80,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34374
+            "stars": 34385
           }
         },
         {
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-20T08:28:42Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9156
+            "stars": 9173
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2024-06-01T00:44:07Z",
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7735
+            "stars": 7736
           }
         },
         {
@@ -217,7 +217,7 @@
                 "last_commit": "2026-08-18T09:16:25Z",
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 61139
+                "stars": 61157
               }
             },
             {
@@ -232,7 +232,7 @@
                 "last_commit": "2026-05-25T18:15:40Z",
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 22858
+                "stars": 22870
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2026-08-21T23:14:41Z",
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
-                "stars": 12778
+                "stars": 12802
               }
             },
             {
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:33:48.457Z",
+    "last_updated": "2026-08-23T19:33:12.510Z",
     "original_repository": "Jason-cs18/awesome-avatar",
     "original_repository_id": 697562506,
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
