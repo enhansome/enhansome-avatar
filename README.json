@@ -54,6 +54,684 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StyleGANv3",
+              "description": "Alias-Free Generative Adversarial Networks, NVIDIA, NeurIPS 2021 The Evolution of StyleGAN: Introduction Code high fidlity face generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 414545335,
+                "language": "Python",
+                "last_commit": "2023-09-12T17:04:25Z",
+                "owner": "NVlabs",
+                "repo": "stylegan3",
+                "stars": 6942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EG3D",
+              "description": "EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks, NVIDIA, CVPR 2022 Code 3D-aware GAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 438565846,
+                "language": "Python",
+                "last_commit": "2023-06-10T19:59:28Z",
+                "owner": "NVlabs",
+                "repo": "eg3d",
+                "stars": 3338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stable Diffusion",
+              "description": "High-Resolution Image Synthesis with Latent Diffusion Models, Heidelberg University, CVPR 2022 What are Diffusion Models? Code diverse and high quality images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440244590,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-02-29T05:29:47Z",
+                "owner": "CompVis",
+                "repo": "latent-diffusion",
+                "stars": 14130
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stable Video Diffusion",
+              "description": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets, Stability AI, arXiv 2023 Diffusion Models for Video Generation Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656933936,
+                "language": "Python",
+                "last_commit": "2025-12-16T08:36:18Z",
+                "owner": "Stability-AI",
+                "repo": "generative-models",
+                "stars": 27268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiT",
+              "description": "Scalable Diffusion Models with Transformers, Meta, ICCV 2023 Diffusion Transformed Code magic behind OpenAI Sora",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 578825599,
+                "language": "Python",
+                "last_commit": "2024-05-31T13:04:15Z",
+                "owner": "facebookresearch",
+                "repo": "DiT",
+                "stars": 8689
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NeRF",
+              "description": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis, UC Berkeley, ECCV 2020 NeRF Explosion 2020 Code 3D synthesis via volume rendering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253188774,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:27:44Z",
+                "owner": "yenchenlin",
+                "repo": "nerf-pytorch",
+                "stars": 6045
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "3DGS",
+              "description": "3D Gaussian Splatting for Real-Time Radiance Field Rendering, Inria, SIGGRAPH 2023 A Comprehensive Overview of Gaussian Splatting Code real-time 3d rendering",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 662028682,
+                "language": "Python",
+                "last_commit": "2025-10-17T14:28:15Z",
+                "owner": "graphdeco-inria",
+                "repo": "gaussian-splatting",
+                "stars": 23008
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image and video generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CVPR 2021",
+              "description": "Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors Tsinghua University Dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378362731,
+                "language": null,
+                "last_commit": "2024-09-14T14:33:03Z",
+                "owner": "ytrock",
+                "repo": "THuman2.0-Dataset",
+                "stars": 375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIGGRAPH 2023",
+              "description": "AvatarReX: Real-time Expressive Full-body Avatars Tsinghua University Dataset",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723232388,
+                "language": "Python",
+                "last_commit": "2024-11-16T13:23:25Z",
+                "owner": "lizhe00",
+                "repo": "AnimatableGaussians",
+                "stars": 1093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2024",
+              "description": "From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations Meta Reality Labs Research Code conversational avatar",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 738154928,
+                "language": "Python",
+                "last_commit": "2024-09-15T02:29:57Z",
+                "owner": "facebookresearch",
+                "repo": "audio2photoreal",
+                "stars": 2850
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVPR 2024",
+              "description": "Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling Tsinghua Univserity Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 723232388,
+                "language": "Python",
+                "last_commit": "2024-11-16T13:23:25Z",
+                "owner": "lizhe00",
+                "repo": "AnimatableGaussians",
+                "stars": 1093
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVPR 2024",
+              "description": "4K4D: Real-Time 4D View Synthesis at 4K Resolution Zhejiang University Code real-time synthesis with 3DGS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705984092,
+                "language": "Python",
+                "last_commit": "2024-06-07T06:30:48Z",
+                "owner": "zju3dv",
+                "repo": "4K4D",
+                "stars": 1807
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3D Avatar (face+body)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MM 2020",
+              "description": "Wav2Lip: Accurately Lip-sync Videos to Any Speech The International Institute of Islamic Thought (IIIT), India Code ✅ most accurate lip-sync model, bad video quality , pre-trained on ~ hours video data from LRS2",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285774113,
+                "language": "Python",
+                "last_commit": "2025-06-22T02:41:21Z",
+                "owner": "Rudrabha",
+                "repo": "Wav2Lip",
+                "stars": 13177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MM 2021",
+              "description": "Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis Tsinghua University Code,",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359309947,
+                "language": "Python",
+                "last_commit": "2021-11-11T04:05:27Z",
+                "owner": "wuhaozhe",
+                "repo": "style_avatar",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVPR 2021",
+              "description": "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation The Chinese University of Hong Kong Code contrastive learning on audio-lip",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351362064,
+                "language": "Python",
+                "last_commit": "2024-01-06T10:21:53Z",
+                "owner": "Hangz-nju-cuhk",
+                "repo": "Talking-Face_PC-AVS",
+                "stars": 958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICCV 2021",
+              "description": "PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering Peking University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394150073,
+                "language": "Python",
+                "last_commit": "2022-01-05T04:13:42Z",
+                "owner": "RenYurui",
+                "repo": "PIRender",
+                "stars": 550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ECCV 2022",
+              "description": "StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN Tsinghua University Code High-fidenity synthesis via StyleGAN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 467808685,
+                "language": "Python",
+                "last_commit": "2023-03-26T10:37:41Z",
+                "owner": "OpenTalker",
+                "repo": "StyleHEAT",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SIGGRAPH Asia 2022",
+              "description": "VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild Xidian University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536411820,
+                "language": "Python",
+                "last_commit": "2024-08-05T05:59:59Z",
+                "owner": "OpenTalker",
+                "repo": "video-retalking",
+                "stars": 7280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AAAI 2023",
+              "description": "DINet: Deformation Inpainting Network for Realistic Face Visually Dubbing on High Resolution Video Virtual Human Group, Netease Fuxi AI Lab Code ✅ accurate lip-sync and high-quality synthesis ()",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572025672,
+                "language": "Python",
+                "last_commit": "2023-09-25T23:06:26Z",
+                "owner": "MRzzm",
+                "repo": "DINet",
+                "stars": 1128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVPR 2023",
+              "description": "SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation Xi'an Jiaotong University Code , Note",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 569518584,
+                "language": "Python",
+                "last_commit": "2024-06-26T12:51:53Z",
+                "owner": "OpenTalker",
+                "repo": "SadTalker",
+                "stars": 14032
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2023",
+              "description": "DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models Tsinghua University Code, diffusion",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736513336,
+                "language": "Python",
+                "last_commit": "2024-01-15T19:11:17Z",
+                "owner": "ali-vilab",
+                "repo": "dreamtalk",
+                "stars": 1787
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+              "description": "Tencent TMElyralab MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777554659,
+                "language": "Python",
+                "last_commit": "2025-09-26T05:44:17Z",
+                "owner": "TMElyralab",
+                "repo": "MuseTalk",
+                "stars": 6449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2024",
+              "description": "LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control Kuaishou Technology Code face reenactment with micro-expression",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823745702,
+                "language": "Python",
+                "last_commit": "2026-06-01T17:25:09Z",
+                "owner": "KlingAIResearch",
+                "repo": "LivePortrait",
+                "stars": 18965
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2024",
+              "description": "EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions Ant Group Code accurate lip-sync on Chinese speakers, diffusion, pre-trained on cleaned video data (collected from internet)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823448250,
+                "language": "Python",
+                "last_commit": "2026-04-07T04:02:07Z",
+                "owner": "antgroup",
+                "repo": "echomimic",
+                "stars": 4286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2024",
+              "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation Fudan University Code, ✅ accurate lip-sync, diffusion, pre-trained on of cleaned video data (155 hours from internet and 9 hours from HDTF)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 813932983,
+                "language": "Python",
+                "last_commit": "2024-09-14T13:23:02Z",
+                "owner": "fudan-generative-vision",
+                "repo": "hallo",
+                "stars": 8663
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2D talking-face synthesis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ICCV 2021",
+              "description": "AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis University of Science and Technology of China Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 379990802,
+                "language": "Python",
+                "last_commit": "2023-10-27T11:05:12Z",
+                "owner": "YudongGuo",
+                "repo": "AD-NeRF",
+                "stars": 1072
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512671162,
+                "language": "Python",
+                "last_commit": "2023-01-10T08:57:25Z",
+                "owner": "sstzal",
+                "repo": "DFRF",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 512671162,
+                "language": "Python",
+                "last_commit": "2023-01-10T08:57:25Z",
+                "owner": "sstzal",
+                "repo": "DFRF",
+                "stars": 338
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICLR 2023",
+              "description": "GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis Zhejiang University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597040690,
+                "language": "Python",
+                "last_commit": "2024-10-18T09:10:07Z",
+                "owner": "yerfor",
+                "repo": "GeneFace",
+                "stars": 2657
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ICCV 2023",
+              "description": "Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis Beihang University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 667455102,
+                "language": "Python",
+                "last_commit": "2025-03-14T06:51:51Z",
+                "owner": "Fictionarry",
+                "repo": "ER-NeRF",
+                "stars": 1260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arXiv 2023",
+              "description": "GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation Zhejiang University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751190653,
+                "language": "Python",
+                "last_commit": "2024-10-18T09:10:53Z",
+                "owner": "yerfor",
+                "repo": "GeneFacePlusPlus",
+                "stars": 1809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CVPR 2024",
+              "description": "SyncTalk: The Devil is in the Synchronization for Talking Head Synthesi Renmin University of China Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 725145692,
+                "language": "Python",
+                "last_commit": "2025-09-18T15:00:06Z",
+                "owner": "ZiqiaoPeng",
+                "repo": "SyncTalk",
+                "stars": 1626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ECCV 2024",
+              "description": "TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting Beihang University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790300995,
+                "language": "Python",
+                "last_commit": "2025-03-15T16:57:05Z",
+                "owner": "Fictionarry",
+                "repo": "TalkingGaussian",
+                "stars": 387
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3D talking-face synthesis"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NeurIPS 2018",
+                  "description": "Video-to-Video Synthesis NVIDIA Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 144782044,
+                    "language": "Python",
+                    "last_commit": "2022-05-17T05:09:30Z",
+                    "owner": "NVIDIA",
+                    "repo": "vid2vid",
+                    "stars": 8694
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ICCV 2019",
+                  "description": "Everybody Dance Now UC Berkeley Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 294812958,
+                    "language": "Python",
+                    "last_commit": "2021-04-13T07:47:44Z",
+                    "owner": "carolineec",
+                    "repo": "EverybodyDanceNow",
+                    "stars": 709
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "arXiv 2023",
+                  "description": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation Alibaba Group Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 724501222,
+                    "language": null,
+                    "last_commit": "2025-09-20T13:56:23Z",
+                    "owner": "HumanAIGC",
+                    "repo": "AnimateAnyone",
+                    "stars": 14790
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 721522144,
+                    "language": "Python",
+                    "last_commit": "2025-08-29T03:12:58Z",
+                    "owner": "magic-research",
+                    "repo": "magic-animate",
+                    "stars": 10896
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 721522144,
+                    "language": "Python",
+                    "last_commit": "2025-08-29T03:12:58Z",
+                    "owner": "magic-research",
+                    "repo": "magic-animate",
+                    "stars": 10896
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "arXiv 2024",
+                  "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance Nanjing University Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 773229604,
+                    "language": "Python",
+                    "last_commit": "2024-07-10T07:53:06Z",
+                    "owner": "fudan-generative-vision",
+                    "repo": "champ",
+                    "stars": 4260
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Github repo",
+                  "description": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising Tencent TMElyralab Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 777150831,
+                    "language": "Python",
+                    "last_commit": "2024-06-28T04:21:48Z",
+                    "owner": "TMElyralab",
+                    "repo": "MuseV",
+                    "stars": 2845
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Github repo",
+                  "description": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation Tencent Code ⭐",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 805314416,
+                    "language": "Python",
+                    "last_commit": "2025-03-05T11:37:41Z",
+                    "owner": "TMElyralab",
+                    "repo": "MusePose",
+                    "stars": 2701
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "arXiv 2024",
+                  "description": "ControlNeXt: Powerful and Efficient Control for Image and Video Generation The Chinese University of Hong Kong Code stable video diffusion",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 814423356,
+                    "language": "Python",
+                    "last_commit": "2024-09-25T07:45:41Z",
+                    "owner": "JIA-Lab-research",
+                    "repo": "ControlNeXt",
+                    "stars": 1646
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Pose2video"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Talking-body synthesis"
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "GFPGAN: Practical Algorithm for Real-world Face Restoration https://github.com/TencentARC/GFPGAN",
           "description": null,
@@ -65,7 +743,7 @@
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37657
+            "stars": 37658
           }
         },
         {
@@ -80,7 +758,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34385
+            "stars": 34390
           }
         },
         {
@@ -95,7 +773,7 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18106
+            "stars": 18110
           }
         },
         {
@@ -110,7 +788,7 @@
             "last_commit": "2026-08-20T08:28:42Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9173
+            "stars": 9189
           }
         },
         {
@@ -125,7 +803,7 @@
             "last_commit": "2024-06-01T00:44:07Z",
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7736
+            "stars": 7738
           }
         },
         {
@@ -185,7 +863,7 @@
             "last_commit": "2026-07-15T13:42:27Z",
             "owner": "leblancfg",
             "repo": "autocrop",
-            "stars": 672
+            "stars": 673
           }
         },
         {
@@ -200,8 +878,30 @@
             "last_commit": "2024-01-12T14:01:26Z",
             "owner": "ascust",
             "repo": "3DMM-Fitting-Pytorch",
-            "stars": 654
+            "stars": 653
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SenseVoice (multilingual) https://github.com/FunAudioLLM/SenseVoice",
+              "description": "👍👍",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823429665,
+                "language": "C",
+                "last_commit": "2026-08-18T02:13:34Z",
+                "owner": "QwenAudio",
+                "repo": "SenseVoice",
+                "stars": 9135
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Automatic Speech Recognition (ASR)"
         },
         {
           "children": [
@@ -217,7 +917,7 @@
                 "last_commit": "2026-08-18T09:16:25Z",
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 61157
+                "stars": 61179
               }
             },
             {
@@ -232,7 +932,7 @@
                 "last_commit": "2026-05-25T18:15:40Z",
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 22870
+                "stars": 22891
               }
             },
             {
@@ -266,10 +966,10 @@
                 "archived": false,
                 "id": 839428333,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:14:41Z",
+                "last_commit": "2026-08-24T12:13:22Z",
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
-                "stars": 12802
+                "stars": 12828
               }
             },
             {
@@ -284,7 +984,7 @@
                 "last_commit": "2024-11-05T10:19:58Z",
                 "owner": "gpt-omni",
                 "repo": "mini-omni",
-                "stars": 3571
+                "stars": 3570
               }
             }
           ],
@@ -297,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:33:12.510Z",
+    "last_updated": "2026-08-24T14:45:08.054Z",
     "original_repository": "Jason-cs18/awesome-avatar",
     "original_repository_id": 697562506,
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
