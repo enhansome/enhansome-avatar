@@ -67,13 +67,13 @@
                 "last_commit": "2023-09-12T17:04:25Z",
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942
+                "stars": 6943
               }
             },
             {
               "node_type": "item",
               "title": "EG3D",
-              "description": "EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks, NVIDIA, CVPR 2022 Code 3D-aware GAN",
+              "description": "EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks, NVIDIA, CVPR 2022  Code 3D-aware GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -112,7 +112,7 @@
                 "last_commit": "2025-12-16T08:36:18Z",
                 "owner": "Stability-AI",
                 "repo": "generative-models",
-                "stars": 27269
+                "stars": 27268
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2025-10-17T14:28:15Z",
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23010
+                "stars": 23011
               }
             }
           ],
@@ -282,7 +282,7 @@
             {
               "node_type": "item",
               "title": "CVPR 2021",
-              "description": "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation The Chinese University of Hong Kong Code contrastive learning on audio-lip",
+              "description": "Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation The Chinese University of Hong Kong Code  contrastive learning on audio-lip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -312,7 +312,7 @@
             {
               "node_type": "item",
               "title": "ECCV 2022",
-              "description": "StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN Tsinghua University Code High-fidenity synthesis via StyleGAN",
+              "description": "StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN Tsinghua University Code  High-fidenity synthesis via StyleGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -366,13 +366,13 @@
                 "last_commit": "2024-06-26T12:51:53Z",
                 "owner": "OpenTalker",
                 "repo": "SadTalker",
-                "stars": 14034
+                "stars": 14035
               }
             },
             {
               "node_type": "item",
               "title": "arXiv 2023",
-              "description": "DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models Tsinghua University Code, diffusion",
+              "description": "DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models Tsinghua University Code,  diffusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -396,13 +396,13 @@
                 "last_commit": "2025-09-26T05:44:17Z",
                 "owner": "TMElyralab",
                 "repo": "MuseTalk",
-                "stars": 6450
+                "stars": 6452
               }
             },
             {
               "node_type": "item",
               "title": "arXiv 2024",
-              "description": "LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control Kuaishou Technology Code face reenactment with micro-expression",
+              "description": "LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control Kuaishou Technology Code  face reenactment with micro-expression",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -411,13 +411,13 @@
                 "last_commit": "2026-06-01T17:25:09Z",
                 "owner": "KlingAIResearch",
                 "repo": "LivePortrait",
-                "stars": 18965
+                "stars": 18964
               }
             },
             {
               "node_type": "item",
               "title": "arXiv 2024",
-              "description": "EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions Ant Group Code accurate lip-sync on Chinese speakers, diffusion, pre-trained on cleaned video data (collected from internet)",
+              "description": "EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions Ant Group Code  accurate lip-sync on Chinese speakers, diffusion, pre-trained on cleaned video data (collected from internet)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -441,7 +441,7 @@
                 "last_commit": "2024-09-14T13:23:02Z",
                 "owner": "fudan-generative-vision",
                 "repo": "hallo",
-                "stars": 8663
+                "stars": 8664
               }
             }
           ],
@@ -483,7 +483,7 @@
             },
             {
               "node_type": "item",
-              "title": "Code",
+              "title": "sstzal/DFRF",
               "description": null,
               "children": [],
               "repo_info": {
@@ -642,7 +642,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Code",
+                  "title": "magic-research/magic-animate",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -758,7 +758,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34393
+            "stars": 34396
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2025-11-18T12:03:30Z",
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18110
+            "stars": 18111
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2026-08-20T08:28:42Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9196
+            "stars": 9204
           }
         },
         {
@@ -895,7 +895,7 @@
                 "last_commit": "2026-08-18T02:13:34Z",
                 "owner": "QwenAudio",
                 "repo": "SenseVoice",
-                "stars": 9137
+                "stars": 9141
               }
             }
           ],
@@ -917,7 +917,7 @@
                 "last_commit": "2026-08-18T09:16:25Z",
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 61186
+                "stars": 61198
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2026-05-25T18:15:40Z",
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 22894
+                "stars": 22903
               }
             },
             {
@@ -969,7 +969,7 @@
                 "last_commit": "2026-08-24T12:13:22Z",
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
-                "stars": 12835
+                "stars": 12841
               }
             },
             {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:43:50.212Z",
+    "last_updated": "2026-08-25T06:38:00.223Z",
     "original_repository": "Jason-cs18/awesome-avatar",
     "original_repository_id": 697562506,
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
