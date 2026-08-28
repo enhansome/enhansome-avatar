@@ -97,7 +97,7 @@
                 "last_commit": "2024-02-29T05:29:47Z",
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14132
+                "stars": 14131
               }
             },
             {
@@ -112,7 +112,7 @@
                 "last_commit": "2025-12-16T08:36:18Z",
                 "owner": "Stability-AI",
                 "repo": "generative-models",
-                "stars": 27272
+                "stars": 27271
               }
             },
             {
@@ -127,7 +127,7 @@
                 "last_commit": "2024-05-31T13:04:15Z",
                 "owner": "facebookresearch",
                 "repo": "DiT",
-                "stars": 8689
+                "stars": 8690
               }
             },
             {
@@ -142,7 +142,7 @@
                 "last_commit": "2024-07-25T10:27:44Z",
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6044
+                "stars": 6043
               }
             },
             {
@@ -157,7 +157,7 @@
                 "last_commit": "2025-10-17T14:28:15Z",
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23468
+                "stars": 23499
               }
             }
           ],
@@ -239,7 +239,7 @@
                 "last_commit": "2024-06-07T06:30:48Z",
                 "owner": "zju3dv",
                 "repo": "4K4D",
-                "stars": 1807
+                "stars": 1806
               }
             }
           ],
@@ -261,7 +261,7 @@
                 "last_commit": "2025-06-22T02:41:21Z",
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13182
+                "stars": 13184
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2024-08-05T05:59:59Z",
                 "owner": "OpenTalker",
                 "repo": "video-retalking",
-                "stars": 7281
+                "stars": 7282
               }
             },
             {
@@ -366,7 +366,7 @@
                 "last_commit": "2024-06-26T12:51:53Z",
                 "owner": "OpenTalker",
                 "repo": "SadTalker",
-                "stars": 14043
+                "stars": 14047
               }
             },
             {
@@ -396,7 +396,7 @@
                 "last_commit": "2025-09-26T05:44:17Z",
                 "owner": "TMElyralab",
                 "repo": "MuseTalk",
-                "stars": 6461
+                "stars": 6465
               }
             },
             {
@@ -411,7 +411,7 @@
                 "last_commit": "2026-06-01T17:25:09Z",
                 "owner": "KlingAIResearch",
                 "repo": "LivePortrait",
-                "stars": 18972
+                "stars": 18973
               }
             },
             {
@@ -426,7 +426,7 @@
                 "last_commit": "2026-04-07T04:02:07Z",
                 "owner": "antgroup",
                 "repo": "echomimic",
-                "stars": 4292
+                "stars": 4293
               }
             },
             {
@@ -622,7 +622,7 @@
                     "last_commit": "2025-09-20T13:56:23Z",
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14791
+                    "stars": 14789
                   }
                 },
                 {
@@ -682,7 +682,7 @@
                     "last_commit": "2024-06-28T04:21:48Z",
                     "owner": "TMElyralab",
                     "repo": "MuseV",
-                    "stars": 2846
+                    "stars": 2847
                   }
                 },
                 {
@@ -743,7 +743,7 @@
             "last_commit": "2024-07-26T18:44:02Z",
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37659
+            "stars": 37661
           }
         },
         {
@@ -758,7 +758,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
+            "stars": 34418
           }
         },
         {
@@ -788,7 +788,7 @@
             "last_commit": "2026-08-20T08:28:42Z",
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9247
+            "stars": 9249
           }
         },
         {
@@ -818,7 +818,7 @@
             "last_commit": "2024-08-06T07:19:40Z",
             "owner": "open-mmlab",
             "repo": "mmagic",
-            "stars": 7457
+            "stars": 7459
           }
         },
         {
@@ -892,10 +892,10 @@
                 "archived": false,
                 "id": 823429665,
                 "language": "C",
-                "last_commit": "2026-08-18T02:13:34Z",
+                "last_commit": "2026-08-27T13:45:16Z",
                 "owner": "QwenAudio",
                 "repo": "SenseVoice",
-                "stars": 9158
+                "stars": 9160
               }
             }
           ],
@@ -917,7 +917,7 @@
                 "last_commit": "2026-08-18T09:16:25Z",
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 61263
+                "stars": 61283
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2026-05-25T18:15:40Z",
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 22931
+                "stars": 22946
               }
             },
             {
@@ -966,10 +966,10 @@
                 "archived": false,
                 "id": 839428333,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:53:03Z",
+                "last_commit": "2026-08-27T13:30:08Z",
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
-                "stars": 12893
+                "stars": 12908
               }
             },
             {
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:32.061Z",
+    "last_updated": "2026-08-28T03:34:33.057Z",
     "original_repository_info": {
       "archived": false,
       "id": 697562506,
