@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 438565846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-10T19:59:28Z",
+                "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3338
+                "stars": 3338,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -38,12 +43,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository for paper Unsupervised Volumetric Animation",
+                "homepage": null,
                 "id": 593373065,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-22T16:57:12Z",
+                "open_issues": 4,
                 "owner": "snap-research",
                 "repo": "unsupervised-volumetric-animation",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -64,12 +74,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of StyleGAN3",
+                "homepage": null,
                 "id": 414545335,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-12T17:04:25Z",
+                "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6942
+                "stars": 6942,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -80,12 +95,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 438565846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-10T19:59:28Z",
+                "open_issues": 66,
                 "owner": "NVlabs",
                 "repo": "eg3d",
-                "stars": 3338
+                "stars": 3338,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -96,12 +116,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+                "homepage": null,
                 "id": 440244590,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-02-29T05:29:47Z",
+                "open_issues": 293,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14130
+                "stars": 14130,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -112,12 +137,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generative Models by Stability AI",
+                "homepage": null,
                 "id": 656933936,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-16T08:36:18Z",
+                "open_issues": 339,
                 "owner": "Stability-AI",
                 "repo": "generative-models",
-                "stars": 27273
+                "stars": 27273,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -128,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+                "homepage": null,
                 "id": 578825599,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-31T13:04:15Z",
+                "open_issues": 79,
                 "owner": "facebookresearch",
                 "repo": "DiT",
-                "stars": 8690
+                "stars": 8690,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -144,12 +179,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.",
+                "homepage": null,
                 "id": 253188774,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:27:44Z",
+                "open_issues": 86,
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6043
+                "stars": 6043,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -160,12 +200,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+                "homepage": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
                 "id": 662028682,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-17T14:28:15Z",
+                "open_issues": 713,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23628
+                "stars": 23635,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "radiance-field"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -183,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 378362731,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-09-14T14:33:03Z",
+                "open_issues": 20,
                 "owner": "ytrock",
                 "repo": "THuman2.0-Dataset",
-                "stars": 376
+                "stars": 376,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -199,12 +253,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of [CVPR 2024] \"Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling\"",
+                "homepage": "https://animatable-gaussians.github.io/",
                 "id": 723232388,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-16T13:23:25Z",
+                "open_issues": 36,
                 "owner": "lizhe00",
                 "repo": "AnimatableGaussians",
-                "stars": 1093
+                "stars": 1093,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3d-human",
+                  "3d-reconstruction",
+                  "animatable-avatar"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -215,12 +279,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code and dataset for photorealistic Codec Avatars driven from audio",
+                "homepage": null,
                 "id": 738154928,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-09-15T02:29:57Z",
+                "open_issues": 6,
                 "owner": "facebookresearch",
                 "repo": "audio2photoreal",
-                "stars": 2850
+                "stars": 2850,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -231,12 +300,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of [CVPR 2024] \"Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling\"",
+                "homepage": "https://animatable-gaussians.github.io/",
                 "id": 723232388,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-11-16T13:23:25Z",
+                "open_issues": 36,
                 "owner": "lizhe00",
                 "repo": "AnimatableGaussians",
-                "stars": 1093
+                "stars": 1093,
+                "topics": [
+                  "3d-gaussian-splatting",
+                  "3d-human",
+                  "3d-reconstruction",
+                  "animatable-avatar"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -247,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] 4K4D: Real-Time 4D View Synthesis at 4K Resolution",
+                "homepage": "https://zju3dv.github.io/4k4d/",
                 "id": 705984092,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-07T06:30:48Z",
+                "open_issues": 47,
                 "owner": "zju3dv",
                 "repo": "4K4D",
-                "stars": 1806
+                "stars": 1806,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -270,12 +354,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs ",
+                "homepage": "https://sync.so",
                 "id": 285774113,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-22T02:41:21Z",
+                "open_issues": 370,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13184
+                "stars": 13184,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -286,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository for generating stylized talking 3D and 3D face",
+                "homepage": null,
                 "id": 359309947,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-11T04:05:27Z",
+                "open_issues": 11,
                 "owner": "wuhaozhe",
                 "repo": "style_avatar",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -302,12 +396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation (CVPR 2021)",
+                "homepage": null,
                 "id": 351362064,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-01-06T10:21:53Z",
+                "open_issues": 49,
                 "owner": "Hangz-nju-cuhk",
                 "repo": "Talking-Face_PC-AVS",
-                "stars": 958
+                "stars": 958,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -318,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code of the ICCV2021 paper \"PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering\"",
+                "homepage": null,
                 "id": 394150073,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-05T04:13:42Z",
+                "open_issues": 27,
                 "owner": "RenYurui",
                 "repo": "PIRender",
-                "stars": 550
+                "stars": 550,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -334,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2022] StyleHEAT: A framework for high-resolution editable talking face generation",
+                "homepage": null,
                 "id": 467808685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-26T10:37:41Z",
+                "open_issues": 20,
                 "owner": "OpenTalker",
                 "repo": "StyleHEAT",
-                "stars": 656
+                "stars": 656,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -350,12 +459,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild",
+                "homepage": "https://opentalker.github.io/video-retalking/",
                 "id": 536411820,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-05T05:59:59Z",
+                "open_issues": 215,
                 "owner": "OpenTalker",
                 "repo": "video-retalking",
-                "stars": 7282
+                "stars": 7282,
+                "topics": [
+                  "lip-synchronization",
+                  "siggraph-asia-2022",
+                  "talking-head-videos",
+                  "video-editing"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -366,12 +485,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code of \"DINet: deformation inpainting network for realistic face visually dubbing on high resolution video.\"",
+                "homepage": null,
                 "id": 572025672,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-25T23:06:26Z",
+                "open_issues": 92,
                 "owner": "MRzzm",
                 "repo": "DINet",
-                "stars": 1128
+                "stars": 1128,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -382,12 +506,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+                "homepage": "https://sadtalker.github.io/",
                 "id": 569518584,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-26T12:51:53Z",
+                "open_issues": 665,
                 "owner": "OpenTalker",
                 "repo": "SadTalker",
-                "stars": 14049
+                "stars": 14049,
+                "topics": [
+                  "audio-driven-talking-face",
+                  "cvpr2023",
+                  "deep-fake",
+                  "deep-fakes",
+                  "image-animation",
+                  "talking-face",
+                  "talking-face-generation",
+                  "talking-head",
+                  "talking-heads"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -398,12 +537,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models",
+                "homepage": "https://dreamtalk-project.github.io/",
                 "id": 736513336,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-15T19:11:17Z",
+                "open_issues": 46,
                 "owner": "ali-vilab",
                 "repo": "dreamtalk",
-                "stars": 1787
+                "stars": 1787,
+                "topics": [
+                  "audio-visual-learning",
+                  "face-animation",
+                  "talking-head",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -414,12 +563,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+                "homepage": null,
                 "id": 777554659,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-26T05:44:17Z",
+                "open_issues": 171,
                 "owner": "TMElyralab",
                 "repo": "MuseTalk",
-                "stars": 6472
+                "stars": 6472,
+                "topics": [
+                  "lip-sync",
+                  "virtualhumans"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -430,12 +587,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring portraits to life!",
+                "homepage": "https://liveportrait.github.io",
                 "id": 823745702,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-01T17:25:09Z",
+                "open_issues": 289,
                 "owner": "KlingAIResearch",
                 "repo": "LivePortrait",
-                "stars": 18981
+                "stars": 18982,
+                "topics": [
+                  "face-animation",
+                  "image-animation",
+                  "video-editing",
+                  "video-generation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -446,12 +613,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI 2025] EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning",
+                "homepage": "https://antgroup.github.io/ai/echomimic/",
                 "id": 823448250,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-07T04:02:07Z",
+                "open_issues": 119,
                 "owner": "antgroup",
                 "repo": "echomimic",
-                "stars": 4294
+                "stars": 4294,
+                "topics": [
+                  "aaai2025",
+                  "audio-driven-portrait-animations",
+                  "audio-driven-talking-face",
+                  "human-animation",
+                  "talking-face-generation",
+                  "talking-head"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -462,12 +641,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation",
+                "homepage": "https://fudan-generative-vision.github.io/hallo/",
                 "id": 813932983,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-14T13:23:02Z",
+                "open_issues": 114,
                 "owner": "fudan-generative-vision",
                 "repo": "hallo",
-                "stars": 8664
+                "stars": 8664,
+                "topics": [
+                  "face-animation",
+                  "image-animation",
+                  "video-animation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -485,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a PyTorch implementation of \"AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis\".",
+                "homepage": null,
                 "id": 379990802,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-27T11:05:12Z",
+                "open_issues": 56,
                 "owner": "YudongGuo",
                 "repo": "AD-NeRF",
-                "stars": 1072
+                "stars": 1072,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -501,12 +694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2022] The implementation for \"Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis\".",
+                "homepage": null,
                 "id": 512671162,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-10T08:57:25Z",
+                "open_issues": 17,
                 "owner": "sstzal",
                 "repo": "DFRF",
-                "stars": 338
+                "stars": 338,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -517,12 +715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV2022] The implementation for \"Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis\".",
+                "homepage": null,
                 "id": 512671162,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-10T08:57:25Z",
+                "open_issues": 17,
                 "owner": "sstzal",
                 "repo": "DFRF",
-                "stars": 338
+                "stars": 338,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -533,12 +736,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeneFace: Generalized and High-Fidelity 3D Talking Face Synthesis; ICLR 2023; Official code",
+                "homepage": null,
                 "id": 597040690,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-18T09:10:07Z",
+                "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2657
+                "stars": 2657,
+                "topics": [
+                  "nerf",
+                  "pytorch",
+                  "talking-face-generation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -549,12 +761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV'23] Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis",
+                "homepage": "https://fictionarry.github.io/ER-NeRF/",
                 "id": 667455102,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-14T06:51:51Z",
+                "open_issues": 133,
                 "owner": "Fictionarry",
                 "repo": "ER-NeRF",
-                "stars": 1260
+                "stars": 1260,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -565,12 +782,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeneFace++: Generalized and Stable Real-Time 3D Talking Face Generation; Official Code",
+                "homepage": null,
                 "id": 751190653,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-10-18T09:10:53Z",
+                "open_issues": 135,
                 "owner": "yerfor",
                 "repo": "GeneFacePlusPlus",
-                "stars": 1809
+                "stars": 1809,
+                "topics": [
+                  "nerf",
+                  "talking-face-generation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -581,12 +806,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] This is the official source for our paper \"SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis\"",
+                "homepage": "https://ziqiaopeng.github.io/synctalk/",
                 "id": 725145692,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-18T15:00:06Z",
+                "open_issues": 123,
                 "owner": "ZiqiaoPeng",
                 "repo": "SyncTalk",
-                "stars": 1626
+                "stars": 1626,
+                "topics": [
+                  "audio-driven-talking-face",
+                  "cvpr",
+                  "cvpr2024",
+                  "talking-face",
+                  "talking-face-generation",
+                  "talking-head"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -597,12 +834,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV'24] TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting",
+                "homepage": "https://fictionarry.github.io/TalkingGaussian/",
                 "id": 790300995,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-15T16:57:05Z",
+                "open_issues": 48,
                 "owner": "Fictionarry",
                 "repo": "TalkingGaussian",
-                "stars": 387
+                "stars": 387,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -622,12 +864,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.",
+                    "homepage": null,
                     "id": 144782044,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-05-17T05:09:30Z",
+                    "open_issues": 110,
                     "owner": "NVIDIA",
                     "repo": "vid2vid",
-                    "stars": 8692
+                    "stars": 8693,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -638,12 +885,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Motion Retargeting Video Subjects",
+                    "homepage": null,
                     "id": 294812958,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-04-13T07:47:44Z",
+                    "open_issues": 21,
                     "owner": "carolineec",
                     "repo": "EverybodyDanceNow",
-                    "stars": 709
+                    "stars": 709,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -654,12 +906,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation",
+                    "homepage": null,
                     "id": 724501222,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-20T13:56:23Z",
+                    "open_issues": 83,
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14788
+                    "stars": 14788,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -670,12 +927,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024] Official repository for \"MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model\"",
+                    "homepage": "https://showlab.github.io/magicanimate/",
                     "id": 721522144,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-08-29T03:12:58Z",
+                    "open_issues": 109,
                     "owner": "magic-research",
                     "repo": "magic-animate",
-                    "stars": 10898
+                    "stars": 10898,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -686,12 +948,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024] Official repository for \"MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model\"",
+                    "homepage": "https://showlab.github.io/magicanimate/",
                     "id": 721522144,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-08-29T03:12:58Z",
+                    "open_issues": 109,
                     "owner": "magic-research",
                     "repo": "magic-animate",
-                    "stars": 10898
+                    "stars": 10898,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -702,12 +969,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+                    "homepage": "https://fudan-generative-vision.github.io/champ/",
                     "id": 773229604,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-10T07:53:06Z",
+                    "open_issues": 49,
                     "owner": "fudan-generative-vision",
                     "repo": "champ",
-                    "stars": 4261
+                    "stars": 4261,
+                    "topics": [
+                      "human-animation",
+                      "image-animatioln",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -718,12 +994,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising",
+                    "homepage": null,
                     "id": 777150831,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-28T04:21:48Z",
+                    "open_issues": 68,
                     "owner": "TMElyralab",
                     "repo": "MuseV",
-                    "stars": 2848
+                    "stars": 2848,
+                    "topics": [
+                      "diffusion",
+                      "human-video-generation",
+                      "image2video",
+                      "infinite-length",
+                      "musev",
+                      "video-generation"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -734,12 +1022,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation",
+                    "homepage": null,
                     "id": 805314416,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-05T11:37:41Z",
+                    "open_issues": 57,
                     "owner": "TMElyralab",
                     "repo": "MusePose",
-                    "stars": 2701
+                    "stars": 2701,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 },
@@ -750,12 +1043,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Controllable video and image Generation, SVD, Animate Anyone, ControlNet, ControlNeXt, LoRA",
+                    "homepage": null,
                     "id": 814423356,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-09-25T07:45:41Z",
+                    "open_issues": 52,
                     "owner": "JIA-Lab-research",
                     "repo": "ControlNeXt",
-                    "stars": 1647
+                    "stars": 1647,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
                 }
@@ -782,12 +1080,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+            "homepage": null,
             "id": 349321229,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-26T18:44:02Z",
+            "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37660
+            "stars": 37660,
+            "topics": [
+              "deep-learning",
+              "face-restoration",
+              "gan",
+              "gfpgan",
+              "image-restoration",
+              "pytorch",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -798,12 +1109,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+            "homepage": "https://cmu-perceptual-computing-lab.github.io/openpose",
             "id": 89247811,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-03T01:59:11Z",
+            "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
+            "stars": 34417,
+            "topics": [
+              "caffe",
+              "computer-vision",
+              "cpp",
+              "cvpr-2017",
+              "deep-learning",
+              "face",
+              "foot-estimation",
+              "hand-estimation",
+              "human-behavior-understanding",
+              "human-pose",
+              "human-pose-estimation",
+              "keypoint-detection",
+              "keypoints",
+              "machine-learning",
+              "multi-person",
+              "opencv",
+              "openpose",
+              "pose",
+              "pose-estimation",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -814,12 +1151,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "homepage": null,
             "id": 505667511,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-18T12:03:30Z",
+            "open_issues": 282,
             "owner": "sczhou",
             "repo": "CodeFormer",
-            "stars": 18120
+            "stars": 18120,
+            "topics": [
+              "codebook",
+              "codeformer",
+              "face-enhancement",
+              "face-restoration",
+              "pytorch",
+              "restoration",
+              "super-resolution",
+              "vqgan"
+            ]
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -830,12 +1181,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real time interactive streaming digital human",
+            "homepage": "https://www.livetalking.ai",
             "id": 733283939,
             "language": "Python",
-            "last_commit": "2026-08-20T08:28:42Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:47:42Z",
+            "open_issues": 235,
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9265
+            "stars": 9267,
+            "topics": [
+              "aigc",
+              "digihuman",
+              "digital-human",
+              "er-nerf",
+              "lip-sync",
+              "metahuman-stream",
+              "musetalk",
+              "nerf",
+              "realtime",
+              "streaming",
+              "talking-head",
+              "virtualhumans",
+              "wav2lip"
+            ]
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -846,12 +1216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.",
+            "homepage": null,
             "id": 53220938,
             "language": "MATLAB",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-01T00:44:07Z",
+            "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7741
+            "stars": 7741,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -862,12 +1237,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",
+            "homepage": "https://mmagic.readthedocs.io/en/latest/",
             "id": 203999962,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-06T07:19:40Z",
+            "open_issues": 69,
             "owner": "open-mmlab",
             "repo": "mmagic",
-            "stars": 7458
+            "stars": 7458,
+            "topics": [
+              "aigc",
+              "computer-vision",
+              "deep-learning",
+              "diffusion",
+              "diffusion-models",
+              "generative-adversarial-network",
+              "generative-ai",
+              "image-editing",
+              "image-generation",
+              "image-processing",
+              "image-synthesis",
+              "inpainting",
+              "matting",
+              "pytorch",
+              "super-resolution",
+              "text2image",
+              "video-frame-interpolation",
+              "video-interpolation",
+              "video-super-resolution"
+            ]
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -878,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.",
+            "homepage": null,
             "id": 140789390,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-10-04T08:41:17Z",
+            "open_issues": 88,
             "owner": "yfeng95",
             "repo": "face3d",
-            "stars": 2779
+            "stars": 2779,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -894,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH Asia 2023 (Technical Communications)] EasyVolcap: Accelerating Neural Volumetric Video Research",
+            "homepage": null,
             "id": 728582975,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-01-21T08:13:57Z",
+            "open_issues": 33,
             "owner": "zju3dv",
             "repo": "EasyVolcap",
-            "stars": 1587
+            "stars": 1587,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -910,12 +1320,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📸 Automatically detects and crops faces from batches of pictures.",
+            "homepage": "http://leblancfg.com/autocrop/",
             "id": 45621518,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-15T13:42:27Z",
+            "open_issues": 6,
             "owner": "leblancfg",
             "repo": "autocrop",
-            "stars": 673
+            "stars": 673,
+            "topics": [
+              "autocrop",
+              "computer-vision",
+              "crop",
+              "face",
+              "face-detection",
+              "facedetect",
+              "opencv",
+              "pictures",
+              "profile-picture",
+              "python",
+              "yunet"
+            ]
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -926,12 +1353,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 3DMM fitting framework using Pytorch.",
+            "homepage": null,
             "id": 315531850,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-12T14:01:26Z",
+            "open_issues": 4,
             "owner": "ascust",
             "repo": "3DMM-Fitting-Pytorch",
-            "stars": 653
+            "stars": 653,
+            "topics": [
+              "3d-face",
+              "3d-face-alignment",
+              "3d-face-reconstruction",
+              "3d-morphable-face-model",
+              "3d-morphable-models",
+              "3dmm",
+              "basel-face-model",
+              "bfm",
+              "face-reconstruction",
+              "fitting",
+              "monocular-video-reconstruction",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
         },
@@ -944,12 +1389,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.",
+                "homepage": "https://huggingface.co/spaces/FunAudioLLM/SenseVoice",
                 "id": 823429665,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-27T13:45:16Z",
+                "open_issues": 1,
                 "owner": "QwenAudio",
                 "repo": "SenseVoice",
-                "stars": 9164
+                "stars": 9164,
+                "topics": [
+                  "asr",
+                  "audio-analysis",
+                  "audio-event-detection",
+                  "cantonese",
+                  "cross-lingual",
+                  "emotion-detection",
+                  "funasr",
+                  "language-identification",
+                  "llama-cpp",
+                  "multilingual",
+                  "multilingual-asr",
+                  "pytorch",
+                  "sensevoice",
+                  "speech-emotion-recognition",
+                  "speech-recognition",
+                  "speech-to-text",
+                  "speech-understanding",
+                  "transcription",
+                  "voice-ai",
+                  "whisper-alternative"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -967,12 +1438,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+                "homepage": null,
                 "id": 743230067,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T09:16:25Z",
+                "open_issues": 888,
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 61309
+                "stars": 61309,
+                "topics": [
+                  "text-to-speech",
+                  "tts",
+                  "vits",
+                  "voice-clone",
+                  "voice-cloneai",
+                  "voice-cloning"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -983,12 +1466,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.",
+                "homepage": "https://funaudiollm.github.io/cosyvoice3",
                 "id": 823430322,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-25T18:15:40Z",
+                "open_issues": 708,
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 22963
+                "stars": 22964,
+                "topics": [
+                  "audio-generation",
+                  "cantonese",
+                  "chatbot",
+                  "chatgpt",
+                  "chinese",
+                  "cosyvoice",
+                  "cross-lingual",
+                  "english",
+                  "fine-grained",
+                  "fine-tuning",
+                  "gpt-4o",
+                  "japanese",
+                  "korean",
+                  "multi-lingual",
+                  "natural-language-generation",
+                  "python",
+                  "text-to-speech",
+                  "tts",
+                  "voice-cloning"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -999,12 +1507,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open-Sourced LLM-empowered Foundation TTS System",
+                "homepage": "https://fireredteam.github.io/demos/firered_tts/",
                 "id": 842824734,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2025-09-28T06:26:53Z",
+                "open_issues": 37,
                 "owner": "FireRedTeam",
                 "repo": "FireRedTTS",
-                "stars": 919
+                "stars": 919,
+                "topics": [
+                  "diffusion",
+                  "flow-matching",
+                  "gan",
+                  "language-model",
+                  "speech",
+                  "speech-synthesis",
+                  "text-to-speech",
+                  "tts",
+                  "voice-clone"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -1022,12 +1545,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build voice agents with open-source models",
+                "homepage": null,
                 "id": 839428333,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:37:18Z",
+                "open_issues": 99,
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
-                "stars": 12919
+                "stars": 12919,
+                "topics": [
+                  "ai",
+                  "assistant",
+                  "language-model",
+                  "machine-learning",
+                  "python",
+                  "speech",
+                  "speech-synthesis",
+                  "speech-to-text",
+                  "speech-translation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             },
@@ -1038,12 +1576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities. ",
+                "homepage": "https://arxiv.org/abs/2408.16725",
                 "id": 848215538,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-05T10:19:58Z",
+                "open_issues": 40,
                 "owner": "gpt-omni",
                 "repo": "mini-omni",
-                "stars": 3571
+                "stars": 3571,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
             }
@@ -1057,15 +1600,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:10:14.928Z",
+    "last_updated": "2026-08-29T05:05:41.640Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📖 A curated list of resources dedicated to avatar.",
+      "homepage": null,
       "id": 697562506,
       "language": "Jupyter Notebook",
+      "license": null,
       "last_commit": "2024-11-08T16:30:39Z",
+      "open_issues": 0,
       "owner": "Jason-cs18",
       "repo": "awesome-avatar",
-      "stars": 61
+      "stars": 61,
+      "topics": [
+        "avatar",
+        "awesome-list",
+        "co-speech-gesture",
+        "deep-generative-models",
+        "digital-human",
+        "pose2img",
+        "talking-head"
+      ]
     },
     "original_repository_sha": "71ee132851a6947be27772dab774bc5950a333a8",
     "enhanced_repository": "enhansome/enhansome-avatar",
