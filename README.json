@@ -83,7 +83,7 @@
                 "open_issues": 192,
                 "owner": "NVlabs",
                 "repo": "stylegan3",
-                "stars": 6941,
+                "stars": 6939,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -125,7 +125,7 @@
                 "open_issues": 293,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14138,
+                "stars": 14139,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -146,7 +146,7 @@
                 "open_issues": 340,
                 "owner": "Stability-AI",
                 "repo": "generative-models",
-                "stars": 27280,
+                "stars": 27277,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -167,7 +167,7 @@
                 "open_issues": 79,
                 "owner": "facebookresearch",
                 "repo": "DiT",
-                "stars": 8690,
+                "stars": 8687,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -209,7 +209,7 @@
                 "open_issues": 713,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 23726,
+                "stars": 23733,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -335,7 +335,7 @@
                 "open_issues": 47,
                 "owner": "zju3dv",
                 "repo": "4K4D",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -363,7 +363,7 @@
                 "open_issues": 370,
                 "owner": "Rudrabha",
                 "repo": "Wav2Lip",
-                "stars": 13193,
+                "stars": 13192,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -515,7 +515,7 @@
                 "open_issues": 665,
                 "owner": "OpenTalker",
                 "repo": "SadTalker",
-                "stars": 14066,
+                "stars": 14067,
                 "topics": [
                   "audio-driven-talking-face",
                   "cvpr2023",
@@ -572,7 +572,7 @@
                 "open_issues": 172,
                 "owner": "TMElyralab",
                 "repo": "MuseTalk",
-                "stars": 6500,
+                "stars": 6506,
                 "topics": [
                   "lip-sync",
                   "virtualhumans"
@@ -596,7 +596,7 @@
                 "open_issues": 289,
                 "owner": "KlingAIResearch",
                 "repo": "LivePortrait",
-                "stars": 19004,
+                "stars": 19006,
                 "topics": [
                   "face-animation",
                   "image-animation",
@@ -622,7 +622,7 @@
                 "open_issues": 119,
                 "owner": "antgroup",
                 "repo": "echomimic",
-                "stars": 4298,
+                "stars": 4296,
                 "topics": [
                   "aaai2025",
                   "audio-driven-portrait-animations",
@@ -650,7 +650,7 @@
                 "open_issues": 114,
                 "owner": "fudan-generative-vision",
                 "repo": "hallo",
-                "stars": 8664,
+                "stars": 8666,
                 "topics": [
                   "face-animation",
                   "image-animation",
@@ -745,7 +745,7 @@
                 "open_issues": 102,
                 "owner": "yerfor",
                 "repo": "GeneFace",
-                "stars": 2660,
+                "stars": 2659,
                 "topics": [
                   "nerf",
                   "pytorch",
@@ -915,7 +915,7 @@
                     "open_issues": 83,
                     "owner": "HumanAIGC",
                     "repo": "AnimateAnyone",
-                    "stars": 14786,
+                    "stars": 14785,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
@@ -1003,7 +1003,7 @@
                     "open_issues": 68,
                     "owner": "TMElyralab",
                     "repo": "MuseV",
-                    "stars": 2848,
+                    "stars": 2847,
                     "topics": [
                       "diffusion",
                       "human-video-generation",
@@ -1031,7 +1031,7 @@
                     "open_issues": 57,
                     "owner": "TMElyralab",
                     "repo": "MusePose",
-                    "stars": 2703,
+                    "stars": 2704,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
@@ -1052,7 +1052,7 @@
                     "open_issues": 52,
                     "owner": "JIA-Lab-research",
                     "repo": "ControlNeXt",
-                    "stars": 1647,
+                    "stars": 1646,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:14.928Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37666,
+            "stars": 37668,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1118,7 +1118,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34423,
+            "stars": 34425,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1190,7 +1190,7 @@
             "open_issues": 236,
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9377,
+            "stars": 9397,
             "topics": [
               "aigc",
               "digihuman",
@@ -1225,7 +1225,7 @@
             "open_issues": 361,
             "owner": "TadasBaltrusaitis",
             "repo": "OpenFace",
-            "stars": 7745,
+            "stars": 7746,
             "topics": []
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
@@ -1246,7 +1246,7 @@
             "open_issues": 69,
             "owner": "open-mmlab",
             "repo": "mmagic",
-            "stars": 7459,
+            "stars": 7460,
             "topics": [
               "aigc",
               "computer-vision",
@@ -1308,7 +1308,7 @@
             "open_issues": 33,
             "owner": "zju3dv",
             "repo": "EasyVolcap",
-            "stars": 1587,
+            "stars": 1589,
             "topics": []
           },
           "first_seen": "2026-08-29T02:10:14.928Z"
@@ -1394,11 +1394,11 @@
                 "id": 823429665,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-31T10:18:29Z",
+                "last_commit": "2026-09-04T11:47:00Z",
                 "open_issues": 7,
                 "owner": "QwenAudio",
                 "repo": "SenseVoice",
-                "stars": 9225,
+                "stars": 9236,
                 "topics": [
                   "asr",
                   "audio-analysis",
@@ -1444,10 +1444,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-18T09:16:25Z",
-                "open_issues": 891,
+                "open_issues": 892,
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 61513,
+                "stars": 61566,
                 "topics": [
                   "text-to-speech",
                   "tts",
@@ -1475,7 +1475,7 @@
                 "open_issues": 703,
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 23444,
+                "stars": 23463,
                 "topics": [
                   "audio-generation",
                   "cantonese",
@@ -1554,7 +1554,7 @@
                 "open_issues": 101,
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
-                "stars": 13025,
+                "stars": 13040,
                 "topics": [
                   "ai",
                   "assistant",
@@ -1585,7 +1585,7 @@
                 "open_issues": 40,
                 "owner": "gpt-omni",
                 "repo": "mini-omni",
-                "stars": 3574,
+                "stars": 3573,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:42:01.736Z",
+    "last_updated": "2026-09-04T21:27:30.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to avatar.",
