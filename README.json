@@ -125,7 +125,7 @@
                 "open_issues": 292,
                 "owner": "CompVis",
                 "repo": "latent-diffusion",
-                "stars": 14162,
+                "stars": 14163,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:14.928Z"
@@ -209,7 +209,7 @@
                 "open_issues": 716,
                 "owner": "graphdeco-inria",
                 "repo": "gaussian-splatting",
-                "stars": 24067,
+                "stars": 24069,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -515,7 +515,7 @@
                 "open_issues": 665,
                 "owner": "OpenTalker",
                 "repo": "SadTalker",
-                "stars": 14110,
+                "stars": 14111,
                 "topics": [
                   "audio-driven-talking-face",
                   "cvpr2023",
@@ -572,7 +572,7 @@
                 "open_issues": 174,
                 "owner": "TMElyralab",
                 "repo": "MuseTalk",
-                "stars": 6654,
+                "stars": 6653,
                 "topics": [
                   "lip-sync",
                   "virtualhumans"
@@ -596,7 +596,7 @@
                 "open_issues": 289,
                 "owner": "KlingAIResearch",
                 "repo": "LivePortrait",
-                "stars": 19152,
+                "stars": 19156,
                 "topics": [
                   "face-animation",
                   "image-animation",
@@ -690,7 +690,7 @@
             {
               "node_type": "item",
               "title": "Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis",
-              "description": null,
+              "description": "sstzal/DFRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -711,7 +711,7 @@
             {
               "node_type": "item",
               "title": "sstzal/DFRF",
-              "description": null,
+              "description": "sstzal/DFRF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -923,7 +923,7 @@
                 {
                   "node_type": "item",
                   "title": "MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model",
-                  "description": null,
+                  "description": "magic-research/magic-animate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -944,7 +944,7 @@
                 {
                   "node_type": "item",
                   "title": "magic-research/magic-animate",
-                  "description": null,
+                  "description": "magic-research/magic-animate",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1076,7 +1076,7 @@
         {
           "node_type": "item",
           "title": "GFPGAN: Practical Algorithm for Real-world Face Restoration https://github.com/TencentARC/GFPGAN",
-          "description": null,
+          "description": "TencentARC/GFPGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1089,7 +1089,7 @@
             "open_issues": 402,
             "owner": "TencentARC",
             "repo": "GFPGAN",
-            "stars": 37684,
+            "stars": 37685,
             "topics": [
               "deep-learning",
               "face-restoration",
@@ -1105,7 +1105,7 @@
         {
           "node_type": "item",
           "title": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation https://github.com/CMU-Perceptual-Computing-Lab/openpose",
-          "description": null,
+          "description": "CMU-Perceptual-Computing-Lab/openpose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1118,7 +1118,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34483,
+            "stars": 34484,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1147,7 +1147,7 @@
         {
           "node_type": "item",
           "title": "CodeFormer: Robust Blind Face Restoration https://github.com/sczhou/CodeFormer",
-          "description": null,
+          "description": "sczhou/CodeFormer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1177,7 +1177,7 @@
         {
           "node_type": "item",
           "title": "metahuman-stream: Real time interactive streaming digital human https://github.com/lipku/metahuman-stream",
-          "description": null,
+          "description": "lipku/LiveTalking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1190,7 +1190,7 @@
             "open_issues": 238,
             "owner": "lipku",
             "repo": "LiveTalking",
-            "stars": 9672,
+            "stars": 9676,
             "topics": [
               "aigc",
               "digihuman",
@@ -1212,7 +1212,7 @@
         {
           "node_type": "item",
           "title": "OpenFace: a facial behavior analysis toolkit https://github.com/TadasBaltrusaitis/OpenFace",
-          "description": null,
+          "description": "TadasBaltrusaitis/OpenFace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1233,7 +1233,7 @@
         {
           "node_type": "item",
           "title": "A general toolbox for AIGC, including common metrics and models https://github.com/open-mmlab/mmagic",
-          "description": null,
+          "description": "open-mmlab/mmagic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1274,7 +1274,7 @@
         {
           "node_type": "item",
           "title": "face3d: Python tools for processing 3D face https://github.com/yfeng95/face3d",
-          "description": null,
+          "description": "yfeng95/face3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1295,7 +1295,7 @@
         {
           "node_type": "item",
           "title": "EasyVolcap: a PyTorch library for accelerating neural volumetric video research https://github.com/zju3dv/EasyVolcap",
-          "description": null,
+          "description": "zju3dv/EasyVolcap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1316,7 +1316,7 @@
         {
           "node_type": "item",
           "title": "autocrop: Automatically detects and crops faces from batches of pictures https://github.com/leblancfg/autocrop",
-          "description": null,
+          "description": "leblancfg/autocrop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1349,7 +1349,7 @@
         {
           "node_type": "item",
           "title": "3DMM model fitting using Pytorch https://github.com/ascust/3DMM-Fitting-Pytorch",
-          "description": null,
+          "description": "ascust/3DMM-Fitting-Pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1385,7 +1385,7 @@
             {
               "node_type": "item",
               "title": "SenseVoice (multilingual) https://github.com/FunAudioLLM/SenseVoice",
-              "description": "👍👍",
+              "description": "QwenAudio/SenseVoice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1395,10 +1395,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-30T10:22:01Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "QwenAudio",
                 "repo": "SenseVoice",
-                "stars": 9428,
+                "stars": 9429,
                 "topics": [
                   "asr",
                   "audio-analysis",
@@ -1434,7 +1434,7 @@
             {
               "node_type": "item",
               "title": "GPT-SoVITS https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file",
-              "description": null,
+              "description": "RVC-Boss/GPT-SoVITS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1447,7 +1447,7 @@
                 "open_issues": 897,
                 "owner": "RVC-Boss",
                 "repo": "GPT-SoVITS",
-                "stars": 62244,
+                "stars": 62254,
                 "topics": [
                   "text-to-speech",
                   "tts",
@@ -1462,7 +1462,7 @@
             {
               "node_type": "item",
               "title": "CosyVoice, Alibaba Tongyi SpeechTeam https://github.com/FunAudioLLM/CosyVoice",
-              "description": "👍👍",
+              "description": "QwenAudio/CosyVoice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1472,10 +1472,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-25T18:15:40Z",
-                "open_issues": 684,
+                "open_issues": 682,
                 "owner": "QwenAudio",
                 "repo": "CosyVoice",
-                "stars": 23820,
+                "stars": 23821,
                 "topics": [
                   "audio-generation",
                   "cantonese",
@@ -1503,7 +1503,7 @@
             {
               "node_type": "item",
               "title": "FireRedTTS, FireReadTeam https://github.com/FireRedTeam/FireRedTTS",
-              "description": null,
+              "description": "FireRedTeam/FireRedTTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1541,7 +1541,7 @@
             {
               "node_type": "item",
               "title": "Speech To Speech, HuggingFace https://github.com/huggingface/speech-to-speech",
-              "description": null,
+              "description": "huggingface/speech-to-speech",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1550,8 +1550,8 @@
                 "id": 839428333,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:26:23Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-02T23:14:37Z",
+                "open_issues": 106,
                 "owner": "huggingface",
                 "repo": "speech-to-speech",
                 "stars": 13363,
@@ -1572,7 +1572,7 @@
             {
               "node_type": "item",
               "title": "Mini-Omni, Tsinghua University https://github.com/gpt-omni/mini-omni",
-              "description": null,
+              "description": "gpt-omni/mini-omni",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1600,7 +1600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:57:16.451Z",
+    "last_updated": "2026-10-03T04:35:18.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖 A curated list of resources dedicated to avatar.",
